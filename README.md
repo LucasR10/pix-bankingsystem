@@ -1,5 +1,3 @@
-## pix-bankingsystem
-
 ## IX – SISTEMA DE PAGAMENTOS INSTANTÂNEOS
 
 O que é o PIX?
