@@ -10,7 +10,7 @@ Um dos maiores benefícios do PIX, sem dúvidas, é concluir toda a transação 
 Documentação Completa: 
 https://bankrisk.com.br/blog/2020/10/06/pix-sistema-de-pagamentos/
 
-## Tech
+## Stack
 
 Tecnologias Usadas no Projeto:
 
