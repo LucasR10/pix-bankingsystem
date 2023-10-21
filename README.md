@@ -10,7 +10,20 @@ Um dos maiores benefícios do PIX, sem dúvidas, é concluir toda a transação 
 Documentação Completa: 
 https://bankrisk.com.br/blog/2020/10/06/pix-sistema-de-pagamentos/
 
+## Tech
 
+Tecnologias Usadas no Projeto:
+
+-  AWS - Lambda
+-  AWS - S3
+-  AWS - ECS e Fargat
+-  AWS - API Gateway
+-  ASW - Amazon DynamoDB
+-  ASW - SQS
+-  ASW - SNS
+-  ASW - CloudWatch 
+-  Spring Boot com Java 17
+-  GitHub Actions
 
 ## REPOSITORIOS DO PROJETO
 
