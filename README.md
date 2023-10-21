@@ -7,7 +7,21 @@ Comparando-se com transações como TED e DOC, antes as únicas opções online,
 
 Um dos maiores benefícios do PIX, sem dúvidas, é concluir toda a transação em até 10 segundos. O dinheiro sai da conta do pagador e vai para o recebedor, de forma instantânea.
 
-
 Documentação Completa: 
 https://bankrisk.com.br/blog/2020/10/06/pix-sistema-de-pagamentos/
 
+
+
+## REPOSITORIOS DO PROJETO
+
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Descrição | Link |
+| ------ | ------ |
+| Infra terraform | [https://github.com/LucasR10/pix-bankingsystem-infra.git] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
