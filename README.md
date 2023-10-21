@@ -59,4 +59,3 @@ O usuário deve inserir a chave de endereçamento, os dados manualmente ou direc
 
 Após a confirmação dos dados do recebedor, se estiverem corretos, deve-se digitar o valor da transferência e finalizar. Em no máximo, em 10 segundos os recursos já estarão disponíveis na conta recebedora.
 
-Depois que a transação for efetivada, não poderá ser estornada ou cancelada. A solução é negociar com o recebedor e pedir a devoluç
